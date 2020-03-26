@@ -1,0 +1,4 @@
+DIFFICULTY	1 Star Xp	2 Star Xp	3 Star Xp	4 Star Xp	5 Star Xp	1 Star Coin	2 Star Coin	3 Star Coin	4 Star Coin	5 Star Coin
+Easy	25	26	27	28	30	100	120	140	160	180
+Normal	25	28	30	33	35	100	150	200	250	300
+Advanced	25	30	35	40	45	100	160	220	280	340

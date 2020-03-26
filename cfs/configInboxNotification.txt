@@ -1,0 +1,4 @@
+ID	Description	Time Start	Time End	Ruby Reward	XP Reward	URL Icon	Param Type	Can Delete
+1	This inbox stores notifications and tips that work for you. Check it regularly	01/01/2021 10:00	31/12/2022 10:00	0	0		NO_ACTION	TRUE
+2	You can also receive seasonal rewards here	01/01/2020 10:00	31/12/2022 10:00	1	0		GIFT	TRUE
+3	Tips: Click on your profile and invite friends to earn extra Ruby	01/01/2020 10:00	31/12/2022 10:00	0	0		NO_ACTION	TRUE

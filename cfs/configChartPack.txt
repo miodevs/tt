@@ -1,0 +1,27 @@
+ID	Pack Group	Chart Pack Name	Song Item IDs	iOS Product ID	Android Product ID	Android Product ID Sale	iOS Product ID sale
+22	0	Micheal_Bublé's pack 1	1143,1144,1145	mio.ttr.iap.chart_pack_22	mio.ttr.iap.chart_pack_22	mio.ttr.iap.chart_pack_22_saleoff	mio.ttr.iap.chart_pack_22
+23	0	Micheal_Bublé's pack 2	1146,1147,1148,1149,1150	mio.ttr.iap.chart_pack_23	mio.ttr.iap.chart_pack_23	mio.ttr.iap.chart_pack_23_saleoff	mio.ttr.iap.chart_pack_23
+24	2	Nightcore's pack	1151,1152,1153,1154,3128	mio.ttr.iap.chart_pack_24	mio.ttr.iap.chart_pack_24	mio.ttr.iap.chart_pack_24_saleoff	mio.ttr.iap.chart_pack_24
+25	1	Christmas's pack 1	3129,2072,2071,1155,1156	mio.ttr.iap.chart_pack_25	mio.ttr.iap.chart_pack_25	mio.ttr.iap.chart_pack_25_saleoff	mio.ttr.iap.chart_pack_25
+26	2	Weezer's pack	3130,3131,3132	mio.ttr.iap.chart_pack_26	mio.ttr.iap.chart_pack_26	mio.ttr.iap.chart_pack_26_saleoff	mio.ttr.iap.chart_pack_26
+18	0	Taylor Swift's pack	1105,1106,1107,1108,1109	mio.ttr.iap.chart_pack_18	mio.ttr.iap.chart_pack_18	mio.ttr.iap.chart_pack_18_saleoff	mio.ttr.iap.chart_pack_18
+20	2	Classic Tap Tap pack 1	3107,3108,3109,3110,3111	mio.ttr.iap.chart_pack_20	mio.ttr.iap.chart_pack_20	mio.ttr.iap.chart_pack_20_saleoff	mio.ttr.iap.chart_pack_20
+21	2	Classic Tap Tap pack 2	3112,3113,3114,3115,3116	mio.ttr.iap.chart_pack_21	mio.ttr.iap.chart_pack_21	mio.ttr.iap.chart_pack_21_saleoff	mio.ttr.iap.chart_pack_21
+19	2	Queen's pack	3104,3105,3106	mio.ttr.iap.chart_pack_19	mio.ttr.iap.chart_pack_19	mio.ttr.iap.chart_pack_19_saleoff	mio.ttr.iap.chart_pack_19
+1	0	Bruno Mars' pack	2040,2041,2042,2043	mio.ttr.iap.chart_pack_1	mio.ttr.iap.chart_pack_1	mio.ttr.iap.chart_pack_1_saleoff	mio.ttr.iap.chart_pack_1
+15	0	Shakira's pack	1098,1099,1100,1101,1102	mio.ttr.iap.chart_pack_15	mio.ttr.iap.chart_pack_15	mio.ttr.iap.chart_pack_15_saleoff	mio.ttr.iap.chart_pack_15
+2	0	Ed Sheeran's pack	2044,2046	mio.ttr.iap.chart_pack_2	mio.ttr.iap.chart_pack_2	mio.ttr.iap.chart_pack_2	mio.ttr.iap.chart_pack_2
+3	0	Justin Timberlake's pack	2047,2048,2049,2050	mio.ttr.iap.chart_pack_3	mio.ttr.iap.chart_pack_3	mio.ttr.iap.chart_pack_3_saleoff	mio.ttr.iap.chart_pack_3
+4	1	The Chainsmokers' pack	2037,2039	mio.ttr.iap.chart_pack_4	mio.ttr.iap.chart_pack_4	mio.ttr.iap.chart_pack_4	mio.ttr.iap.chart_pack_4
+5	1	Alan Walker's pack	1001,1002,1070,1071	mio.ttr.iap.chart_pack_5	mio.ttr.iap.chart_pack_5	mio.ttr.iap.chart_pack_5_saleoff	mio.ttr.iap.chart_pack_5
+6	1	Marshmello's pack	1072,1073	mio.ttr.iap.chart_pack_6	mio.ttr.iap.chart_pack_6	mio.ttr.iap.chart_pack_6	mio.ttr.iap.chart_pack_6
+7	1	Tiesto's pack	1075,1076,1077,1078,1079	mio.ttr.iap.chart_pack_7	mio.ttr.iap.chart_pack_7	mio.ttr.iap.chart_pack_7_saleoff	mio.ttr.iap.chart_pack_7
+8	2	Dragonforce's pack	30,3058,3059,3060,3052	mio.ttr.iap.chart_pack_8	mio.ttr.iap.chart_pack_8	mio.ttr.iap.chart_pack_8_saleoff	mio.ttr.iap.chart_pack_8
+9	2	Metallica's pack 1	3064,3065,3066,3067,3068	mio.ttr.iap.chart_pack_9	mio.ttr.iap.chart_pack_9	mio.ttr.iap.chart_pack_9_saleoff	mio.ttr.iap.chart_pack_9
+10	2	Nightwish's pack	3070,3071,3072,3073,3025	mio.ttr.iap.chart_pack_10	mio.ttr.iap.chart_pack_10	mio.ttr.iap.chart_pack_10_saleoff	mio.ttr.iap.chart_pack_10
+11	2	All That Remains' pack	3053,3054,3027,3028,3029	mio.ttr.iap.chart_pack_11	mio.ttr.iap.chart_pack_11	mio.ttr.iap.chart_pack_11_saleoff	mio.ttr.iap.chart_pack_11
+12	2	Children of Bodom's pack	3055,3056	mio.ttr.iap.chart_pack_12	mio.ttr.iap.chart_pack_12	mio.ttr.iap.chart_pack_12	mio.ttr.iap.chart_pack_12
+13	2	Metallica's pack 2	3069,3012	mio.ttr.iap.chart_pack_13	mio.ttr.iap.chart_pack_13	mio.ttr.iap.chart_pack_13	mio.ttr.iap.chart_pack_13
+14	2	Linkin Park's pack	3061,3063	mio.ttr.iap.chart_pack_14	mio.ttr.iap.chart_pack_14	mio.ttr.iap.chart_pack_14	mio.ttr.iap.chart_pack_14
+16	2	Avenged SevenFold's pack	3083,3084,3085,3086,3087	mio.ttr.iap.chart_pack_16	mio.ttr.iap.chart_pack_16	mio.ttr.iap.chart_pack_16_saleoff	mio.ttr.iap.chart_pack_16
+17	1	Major Lazer's pack	2055,2056,2057,2058,2059	mio.ttr.iap.chart_pack_17	mio.ttr.iap.chart_pack_17	mio.ttr.iap.chart_pack_17_saleoff	mio.ttr.iap.chart_pack_17

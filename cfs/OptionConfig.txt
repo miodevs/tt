@@ -1,0 +1,9 @@
+{
+  "firstTimeNew2": true,
+  "volumeValue": 0.5,
+  "vibrateOn": false,
+  "effectOn": true,
+  "hdGraphicOn": true,
+  "shakeSlashOn": true,
+  "languageIndex": 1
+}

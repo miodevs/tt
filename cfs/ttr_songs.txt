@@ -1,0 +1,31 @@
+ID	offer	Song Name	Singer	Level Unlock	Price Ruby	duration	delay	version Notes Data	Is Local File	timeDrop	timeDropFinal	URL NotesData	MIDI File	MP3 File	isCrypto	youtubeId	endVideoTime	typeFREE	typePOP	typeEDM	typeROCK	Typenew	priceDollar	isHide
+18	NONE	Worth It	Fifth Harmony ft Kidlnk	1	0	01:47	4	1	0	1.7	0.75	https://url.here	WorthIt_FifthHarmonyFtKidInk.mid	Fifth_Harmony_-_Worth_It_ft._Kid_Ink.mp3	1	YBHQbu5rbdQ	01:47	0	0	0	0	0	0	0
+26	NONE	Immortalized	Disturbed	1	0	04:17	4	1	0	1.7	0.75	https://url.here	Immortalized_Disturbed.mid	Disturbed_-_Immortalized_Official_Lyric_Video.mp3	1	Auuqlcom6tM	04:17	0	0	0	0	0	0	0
+27	NONE	Points of Authority	Linkin Park	2	0	03:30	4	1	0	1.7	0.75	https://url.here	PointsofAuthority_LinkinPark.mid	Points_Of_Authority_Official_Video_-_Linkin_Park.mp3	1	jZSPAp8kCl4	03:30	0	0	0	0	0	0	0
+28	NONE	Rain Over Me	Pitbull ft. Marc Anthony	2	0	01:43	4	0	0	1.7	0.75	https://url.here	Rainoverme_Pitbull.mid	Pitbull_-_Rain_Over_Me_ft._Marc_Anthony_Official_Video.mp3	1	SmM0653YvXU	01:43	0	0	0	0	0	0	0
+1	NONE	Closer	The Chainsmokers ft Halsey	18	0	01:34	4	1	0	1.7	0.75	https://url.here	Closer_Thechainsmokersfthalsey.mid	The_Chainsmokers_-_Closer_Video_ft._Halsey.mp3	1	0zGcUoRlhmw	01:34	0	0	0	0	0	0	0
+2	NONE	Memories	KSHMR and BASSJACKERS ft SIRAH	2	0	02:28	4	0	0	1.7	0.75	https://url.here	Memories_Kshmrandbassjackersftsirah.mid	KSHMR_and_BASSJACKERS_ft_SIRAH_-_Memories_Official_Music_Video.mp3	1	LzVGvfBLEq0	02:28	0	0	0	0	0	0	0
+3	NONE	Summer	Calvin Harris	3	0	01:33	4	0	0	1.7	0.75	https://url.here	Summer_Calvinharris.mid	Calvin_Harris_-_Summer_Official_Video.mp3	1	ebXbLfLACGM	01:33	0	0	0	0	0	0	0
+4	NONE	Lions In The Wild	Martin Garrix vs Third Party	4	0	01:46	4	0	0	1.7	0.75	https://url.here	Lionsinthewild_Martingarrix.mid	Martin_Garrix_Third_Party_-_Lions_In_The_Wild_Official_Video.mp3	1	95D6zmJreQU	01:46	0	0	0	0	0	0	0
+5	NONE	This Is What You Came For	Calvin Harris ft Rihanna	5	0	02:06	4	2	0	1.7	0.75	https://url.here	Thisiswhatyoucamefor_Calvinharris.mid	Calvin_Harris_-_This_Is_What_You_Came_For_Official_Video_ft._Rihanna.mp3	1	kOkQ4T5WO9E	02:06	0	0	0	0	0	0	0
+6	NONE	Roses	The Chainsmokers ft Rozes	6	0	01:51	4	0	0	1.7	0.75	https://url.here	Roses_Thechainsmokersftrozes.mid	The_Chainsmokers_-_Roses_ft._ROZES_Official_Music_Video.mp3	1	G5Mv2iV0wkU	01:51	0	0	0	0	0	0	0
+7	NONE	Stars	Ummet Ozcan ft. Katt Niall	7	0	01:45	4	0	0	1.7	0.75	https://url.here	Stars_Ummetozcanftkattniall.mid	Ummet_Ozcan_ft._Katt_Niall_-_Stars_Official_Video.mp3	1	EMtRoqPvg-8	01:45	0	0	0	0	0	0	0
+8	NONE	Heathens	twenty one pilots	8	0	02:13	4	1	0	1.7	0.75	https://url.here	Heathens_Twentyonepilots.mid	twenty_one_pilots_-_Heathens_from_Suicide_Squad_-_The_Album_OFFICIAL_VIDEO.mp3	1	UprcpdwuwCg	02:13	0	0	0	0	0	0	0
+9	NONE	Uptown Funk	Mark Ronson ft Bruno Mars	9	0	01:34	4	0	0	1.7	0.75	https://url.here	Uptownfunk_Markronsonftbrunomars.mid	Mark_Ronson_-_Uptown_Funk_Official_Video_ft._Bruno_Mars.mp3	1	OPf0YbXqDm0	01:34	0	0	0	0	0	0	0
+10	NONE	My Way	Calvin Harris	10	0	01:37	4	1	0	1.7	0.75	https://url.here	Myway_Calvinharris.mid	Calvin_Harris_-_My_Way_Official_Video.mp3	1	b4Bj7Zb-YD4	01:37	0	0	0	0	0	0	0
+11	NONE	The Hills	The Weeknd	11	0	01:53	4	0	0	1.7	0.75	https://url.here	TheHills_TheWeeknd.mid	The_Weeknd_-_The_Hills_Official_Video.mp3	1	yzTuBuRdAyA	01:53	0	0	0	0	0	0	0
+12	NONE	Taste The Feeling	Avicii vs Conrad Sewell	12	0	02:02	4	1	0	1.7	0.75	https://url.here	Tastethefeeling_Avicii.mid	Avicii_vs._Conrad_Sewell_-_Taste_The_Feeling.mp3	1	F82W3tKtr8c	02:02	0	0	0	0	0	0	0
+13	NONE	Treat You Better	Shawn Mendes	13	0	01:22	4	1	0	1.7	0.75	https://url.here	Treatyoubetter_Shawnmendes.mid	Shawn_Mendes_-_Treat_You_Better.mp3	1	lY2yjAdbvdQ	01:22	0	0	0	0	0	0	0
+14	NONE	Sing Me To Sleep	Alan Walker	14	0	03:09	4	3	0	1.7	0.75	https://url.here	SingMeToSleep_AlanWalker.mid	Alan_Walker_-_Sing_Me_To_Sleep.mp3	1	2i2khp_npdE	03:09	0	0	0	0	0	0	0
+15	NONE	Run Wild	Hardwell feat. Jake Reese	15	0	02:03	4	0	0	1.7	0.75	https://url.here	RunWild_HardwellFtJakeReese.mid	Hardwell_feat._Jake_Reese_-_Run_Wild_Official_Music_Video.mp3	1	ULwcsIPdc8w	02:03	0	0	0	0	0	0	0
+16	NONE	24K Magic	Bruno Mars	16	0	01:56	4	0	0	1.7	0.75	https://url.here	24kMagic_Brunomars.mid	Bruno_Mars_-_24K_Magic_Official_Video.mp3	1	UqyT8IEBkvY	01:56	0	0	0	0	0	0	0
+17	NONE	Starboy	The Weeknd Featuring Daft Punk	17	0	02:00	4	1	0	1.7	0.75	https://url.here	Starboy_Theweekend.mid	The_Weeknd_-_Starboy_ft._Daft_Punk_Official_Video.mp3	1	34Na4j8AVgA	02:00	0	0	0	0	0	0	0
+20	NONE	Burnin	"Calvin Harris, R3hab"	20	0	02:09	4	0	0	1.7	0.75	https://url.here	Burnin_CalvinHarrisFtR3hab.mid	Calvin_Harris_R3hab_-_Burnin_Official_Music_Video.mp3	1	ss6CAIGpoko	02:09	0	0	0	0	0	0	0
+21	NONE	Animals	Martin Garrix	21	0	02:04	4	0	0	1.7	0.75	https://url.here	Animals_Martingarrix.mid	Martin_Garrix_-_Animals_Official_Video.mp3	1	gCYcHz2k5x0	02:04	0	0	0	0	0	0	0
+22	NONE	Play Hard	"David Guetta ft. Ne-Yo, Akon"	22	0	02:04	4	0	0	1.7	0.75	https://url.here	Playhard_Daviguetta.mid	David_Guetta_-_Play_Hard_ft._Ne-Yo_Akon_Official_Video.mp3	1	5dbEhBKGOtY	02:04	0	0	0	0	0	0	0
+23	NONE	The Nights	Avicii	23	0	02:01	4	0	0	1.7	0.75	https://url.here	Thenights_Avicii.mid	Avicii_-_The_Nights.mp3	1	UtF6Jej8yb4	02:01	0	0	0	0	0	0	0
+24	NONE	Dead on Arrival	Fall Out Boy	24	0	03:15	4	1	0	1.7	0.75	https://url.here	DeadOnArrival_FallOutBoy.mid	Fall_Out_Boy_-_Dead_On_Arrival_OFFICIAL_VIDEO.mp3	1	qL02p9KhABo	03:15	0	0	0	0	0	0	0
+25	NONE	In Due Time	Killswitch Engage	25	0	03:27	4	0	0	1.7	0.75	https://url.here	InDueTime_KillswitchEngage.mid	Killswitch_Engage_-_In_Due_Time_OFFICIAL_VIDEO.mp3	1	HANCzu70us4	03:27	0	0	0	0	0	0	0
+29	NONE	Gentleman	Psy	29	0	02:19	4	0	0	1.7	0.75	https://url.here	Gentlemen_Psy.mid	PSY_-_GENTLEMAN_M_V.mp3	1	ASO_zypdnsQ	02:19	0	0	0	0	0	0	0
+32	NONE	Lose Your Mind	Dzeko & Torres and Andres Fresko	30	0	01:33	2	1	0	1.7	0.75	https://url.here	Loseyourmind_Dzeko.mid	Dzeko_Torres_and_Andres_Fresko_-_Lose_Your_Mind_Official_Music_Video.mp3	1	sdjb3zhbLwI	01:33	0	0	0	0	0	0	0
+31	NONE	Stress Out	Twenty One Pilots	31	0	02:28	4	0	0	1.7	0.75	https://url.here	Stressout_Twentyonepilots.mid	twenty_one_pilots_-_Stressed_Out_OFFICIAL_VIDEO.mp3	1	pXRviuL6vMY	02:28	0	0	0	0	0	0	0

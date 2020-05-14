@@ -19,6 +19,8 @@
   "adsVideoQueue": [
     "ironsrc"
   ],
+  "BaseSongURL":"https://raw.githubusercontent.com/miodevs/tt/master/sngs",
+  "BaseMidiURL":"https://raw.githubusercontent.com/miodevs/tt/master/mids",
   "ironSourceAppKey": "",
   "mopubInterstitialID": "",
   "mopub_video_reward_id": "",
